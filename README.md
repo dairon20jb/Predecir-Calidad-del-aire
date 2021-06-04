@@ -12,7 +12,7 @@ _Estas instrucciones te permitirán obtener una copia del proyecto en funcionami
 
 _Extráe el dataset a utilizar del ["Air Quality Historical Data Platform"](https://aqicn.org) escoger la ciudad a analizar y llena unos datos basicos en el link mostrado a continuación._
 
-_A continuación podras observar un video que describe el funcionamiento y desarrollo del proyecto, o le puedes dar click ["aquí"](https://youtube.com/VIDEO/)._
+_A continuación podras observar un video que describe el funcionamiento y desarrollo del proyecto, o le puedes dar click ["aquí"](https://www.youtube.com/watch?v=NtJR92i4HbY)._
 
 ```
 https://youtube.com/VIDEO/
