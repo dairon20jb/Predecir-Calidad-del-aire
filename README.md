@@ -40,9 +40,9 @@ _Para saber que tan buena fue la predicción realizada se utilizan dos medidas d
 
 ## Autores ✒️
 
-* **Andrés Ahumada** - [villanuevand](https://github.com/andresf21)
-* **Dairon Barbosa** - [fulanitodetal](https://github.com/dairon20jb)
-* **Nicolás Polo**   - [villanuevand]
+* **Andrés Ahumada** - [Andresf21](https://github.com/andresf21)
+* **Dairon Barbosa** - [Dairon20jb](https://github.com/dairon20jb)
+* **Nicolás Polo**   - [Npoloh](https://github.con/npoloh)
 
 
 ## Expresiones de Gratitud 🎁
