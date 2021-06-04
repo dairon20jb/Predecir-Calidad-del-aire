@@ -42,7 +42,7 @@ _Para saber que tan buena fue la predicción realizada se utilizan dos medidas d
 
 * **Andrés Ahumada** - [villanuevand](https://github.com/andresf21)
 * **Dairon Barbosa** - [fulanitodetal](https://github.com/dairon20jb)
-* **Nicolás Polo**   - [villanuevand](#fulanito-de-tal)
+* **Nicolás Polo**   - [villanuevand]
 
 
 ## Expresiones de Gratitud 🎁
@@ -53,5 +53,3 @@ _Para saber que tan buena fue la predicción realizada se utilizan dos medidas d
 
 
 
----
-⌨️ con ❤️ por [Villanuevand](https://github.com/Villanuevand) 😊
